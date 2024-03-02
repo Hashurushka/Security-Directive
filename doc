@@ -1,0 +1,29 @@
+Data Security: Karl's Approach
+Karl, a decorated veteran with a complex background involving dubious dealings and a deep concern for data privacy, has developed a highly secure system for protecting his data. This system, informed by consultations with ex-military friends now in intelligence, employs various inexpensive yet effective methods.
+
+Note on Technology
+[!NOTE] Time Of Tech: Efforts have been made to ensure all technological options mentioned were available before or during 2016.
+
+Physical Security Measures
+Karl has taken significant steps to secure his devices physically:
+
+Webcams and Microphones: All webcams and microphones have been removed from his devices. Separate USB webcams and mics are used and only connected when necessary.
+Secure Communication: For official government interactions, WhatsApp is used without cloud backups. Sensitive information is stored on a USB stick and securely hidden. Signal is used for less sensitive communications, while the Tor network and Tails OS on a USB stick are reserved for highly confidential or illegal activities.
+Encryption and Anonymity
+PGP Encryption: Karl employs PGP encryption for message security, ensuring that communications are secure and tamper-evident.
+Tails OS: A free operating system that runs off a USB stick, leaving no trace on the computer. It's used for secure and anonymous internet access.
+VPN and Anonymity Services: For sites blocking Tor, Karl uses Mullvad VPN, known for its diskless servers and privacy-focused payment options.
+Anonymous Email and File Sharing: Karl uses Thunderbird on TailsOS and ProtonMail for email, and OnionShare for file transfers, ensuring that no metadata compromises his anonymity.
+Office Security Protocols
+Karl has implemented strict security measures for his staff, including physical covers for laptop cameras and mics, the use of iPhones to reduce hack risks, mandatory two-factor authentication (2FA), and cybersecurity training. Additionally, he conducts regular security tests to ensure vigilance.
+
+Personal Security Devices
+Karl carries several devices for security and information gathering, including:
+
+TailsOS USB: For secure and anonymous internet access.
+USB Killer: To destroy devices holding sensitive information if compromised.
+Proxmark3: An RFID sniffer and cloner.
+Keylogger: A device to track keystrokes.
+Rubber Duckies: USB devices that mimic keyboards to bypass security and perform various malicious tasks.
+Physical Protection Security Directive
+Despite being well-trained and physically imposing, Karl has plans for enhanced physical security, including the formation of a private militia with ex-military friends. He is also prepared for emergencies with a firearms license, first aid kits, and a "Go Bag" with essential survival items.
